@@ -1,0 +1,1 @@
+global.vidatxt = 3;

@@ -1,0 +1,1 @@
+global.Mudanca = 0;

@@ -1,0 +1,2 @@
+global.contemporanea = 0;
+

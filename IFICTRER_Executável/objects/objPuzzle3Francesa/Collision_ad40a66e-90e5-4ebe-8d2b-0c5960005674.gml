@@ -1,0 +1,1 @@
+global.Francesa = 1;

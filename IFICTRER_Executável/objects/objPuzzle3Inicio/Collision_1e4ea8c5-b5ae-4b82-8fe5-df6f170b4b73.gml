@@ -1,0 +1,1 @@
+global.Inicial = 1;

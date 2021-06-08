@@ -1,0 +1,1 @@
+global.LetraU = 1

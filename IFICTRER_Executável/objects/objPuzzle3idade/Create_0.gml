@@ -1,0 +1,1 @@
+global.Idade= 0;

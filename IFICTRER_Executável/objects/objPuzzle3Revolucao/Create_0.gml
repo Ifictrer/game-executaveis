@@ -1,0 +1,1 @@
+global.Revolucao = 0;

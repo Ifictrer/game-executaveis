@@ -1,0 +1,1 @@
+global.Xcerto = 0;

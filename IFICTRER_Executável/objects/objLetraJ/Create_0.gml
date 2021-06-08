@@ -1,0 +1,2 @@
+global.LetraJ = 0;
+

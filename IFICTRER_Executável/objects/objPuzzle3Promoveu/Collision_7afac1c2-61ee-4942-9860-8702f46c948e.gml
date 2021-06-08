@@ -1,0 +1,1 @@
+global.Promoveu = 1;

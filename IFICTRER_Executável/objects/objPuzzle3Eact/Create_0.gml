@@ -1,0 +1,1 @@
+global.Eact = 0;

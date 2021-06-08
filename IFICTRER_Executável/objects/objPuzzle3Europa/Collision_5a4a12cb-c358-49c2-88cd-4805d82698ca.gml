@@ -1,0 +1,1 @@
+global.Europa = 1;
