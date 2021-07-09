@@ -35,6 +35,6 @@
 
 ## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](https://github.com/Ifictrer/game-executaveis/blob/main/LICENSE) para mais detalhes.
 
 [⚫ Voltar ao topo](#ifictrer---elementos-de-design)<br>
